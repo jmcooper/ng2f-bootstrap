@@ -12,6 +12,9 @@
   },
   "author": "Jim Cooper",
   "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  },
   "bugs": {
     "url": "https://github.com/jmcooper/ng2f-bootstrap/issues"
   },
