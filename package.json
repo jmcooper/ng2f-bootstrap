@@ -13,7 +13,8 @@
   "author": "Jim Cooper",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^3.3.6"
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.4"
   },
   "bugs": {
     "url": "https://github.com/jmcooper/ng2f-bootstrap/issues"
